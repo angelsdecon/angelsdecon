@@ -11,7 +11,7 @@
 
 I am an economics researcher specializing in **Applied Microeconomics**, with a strong focus on the **economics of ageing**, **labor economics**, and **public policy evaluation**. 
 
-My research explores topics such as mental health, gender, inheritances, and social contacts through the lens of **causal inference** and **quasi-experimental** methods 🧠. I am also passionate about sharing knowledge and currently teach undergraduate courses in *Macroeconomics I* and *Labour Economics* 👨‍🏫.
+My research explores topics such as mental health, gender, inheritances, and social contacts through **causal inference** and **quasi-experimental** methods 🧠. I am also passionate about sharing knowledge and currently teach undergraduate courses in *Macroeconomics I* and *Labour Economics* 👨‍🏫.
 
 * 🔭 **Currently:** Working on my PhD dissertation and finishing up working papers on the impact of COVID-19 on mental health in the elderly, and the intra-household effects of inheritances 👨‍🍳.
 * 🌱 **Learning:** Exploring new software, methodologies, and integrating tech into the academic research workflow (GitHub, Cursor, VScode, AI agents).
