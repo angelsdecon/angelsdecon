@@ -2,8 +2,8 @@
 
 **PhD Candidate in Economics | Applied Microeconomics Researcher**
 
-📍 *Based in Salamanca, Spain (Campus 'Miguel de Unamuno')*
-🎓 *First-generation graduate & Predoctoral Researcher*
+📍 *Based in Salamanca, Spain*
+🎓 *First-gen graduate & Predoctoral Researcher*
 
 ---
 
@@ -14,7 +14,7 @@ I am an economics researcher specializing in **Applied Microeconomics**, with a 
 My research explores topics such as mental health, gender, inheritances, and social contacts through the lens of **causal inference** and **quasi-experimental** methods 🧠. I am also passionate about sharing knowledge and currently teach undergraduate students in Economics 👨‍🏫.
 
 * 🔭 **Currently:** Working on my PhD dissertation and cooking up some new working papers 👨‍🍳.
-* 🌱 **Learning:** Exploring Python and critically integrating AI tools into the academic research workflow.
+* 🌱 **Learning:** Exploring new software, methodologies and integrating tech into the academic research workflow (github, cursor, VScode, agents).
 * 🌐 **My academic website:** [angelsdecon.github.io](https://angelsdecon.github.io/)
 
 ---
